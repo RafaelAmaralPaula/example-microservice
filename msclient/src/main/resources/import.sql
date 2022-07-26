@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name , cpf , age) VALUES ('João da silva' , '98951168026' , 45);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Rogério francisco' , '76690098028' , 50);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Marlene silva' , '48377644010' , 24);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Rosana gouveia' , '18874502036' , 19);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Gabriela oliveira' , '90917242009' , 78);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Karol pacheco' , '32401682007' , 25);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Ricardo lourenço' , '76981674025' , 29);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Guilherme Matos' , '363460.00047' , 30);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Geralda de paula' , '28725181009' , 40);
+INSERT INTO tb_client (name , cpf , age) VALUES ('Antônio amaral' , '64422638009' , 20);
